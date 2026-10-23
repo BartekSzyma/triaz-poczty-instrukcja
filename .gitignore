@@ -1,0 +1,6 @@
+node_modules/
+# Klucz klienta OAuth z Google Cloud - nigdy do repo
+client_secret*.json
+# Maile zapisywane przez n8n dla Claude Code
+poczta/
+.env
